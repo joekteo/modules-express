@@ -1,4 +1,4 @@
-https://travis-ci.org/joekteo/modules-express.svg?branch=travisci
+<img src="https://travis-ci.org/joekteo/modules-express.svg?branch=travisci" alt="travis-ci">
 
 modules-express
 ===============
