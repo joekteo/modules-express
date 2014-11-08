@@ -1,3 +1,5 @@
+https://travis-ci.org/joekteo/modules-express.svg?branch=travisci
+
 modules-express
 ===============
 
